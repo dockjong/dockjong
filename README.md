@@ -16,8 +16,9 @@
 
 ### Projects
 
-* [TextMining] KDI G20 재무장관, 중앙은행 총재 회의 커뮤니케 분석
 * [ML/DL] 빅콘테스트 데이터분석분야 챔피언리그 스포츠테크부문 - 타자 OPS 예측 모델 개발 (최우수상)
+* [TextMining] KDI G20 재무장관, 중앙은행 총재 회의 커뮤니케 분석
 * [Statistical Analysis] Fever Coach Application Data 해열제별 효과 비교 분석
-* ---
-* ---
+* [NLP] 제주도 방언 번역 모델 개발
+* [Data Analysis] 따릉이 대여소별 이용 패턴 분석을 통한 대여소별 적절 광고 도출
+* [Text Mining] Rotten Tomatoes 평론가 리뷰 감성 분석을 통한 아카데미 작품상 수상작 적합성 분석
