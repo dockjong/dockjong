@@ -24,3 +24,4 @@
 * [Statistical Analysis] Fever Coach Application Data 해열제별 효과 비교 분석
 * [Data Analysis] 따릉이 대여소별 이용 패턴 분석을 통한 대여소별 적절 광고 도출
 * [Text Mining] Rotten Tomatoes 평론가 리뷰 감성 분석을 통한 아카데미 작품상 수상작 적합성 분석
+* [Data Analysis] 던전앤파이터 공식사이트 게시판 질문데이터 분석을 통한 유저동향 및 주요키워드 파악
