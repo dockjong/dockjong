@@ -4,14 +4,14 @@
 
 ### Education
 
-* Yonsei University, Master of Digital Analytics (2021.01~)
-* University of British Columbia, Bachelor of Materials Engineering (2010~2015)
+* Yonsei University, M.S. in Digital Analytics (Jan 2021 - Aug 2022)
+* University of British Columbia, B.A.S. in Materials Engineering (Sep 2010 - May 2015)
 
 ### Experiences
 
-* BIGCARE Co., Ltd, AI Researcher (Intern, 2021.10 ~)
+* BIGCARE Co., Ltd, AI Researcher (Internship, Oct 2021 - Jun 2022)
    - 개인화 영양섭취기준 알고리즘 개발 및 Django REST API 제작/유지보수
-* HYOSUNG ADVANCED MATERIALS, Process Engineer & Overseas Sales Staff (2018.01 ~ 2021.01)
+* HYOSUNG ADVANCED MATERIALS, Process Engineer & Overseas Sales Staff (Jan 2018 ~ Jan 2021)
    - 자동차 에어백 및 시트벨트 원사 생산 관리(2년), 해외영업(1년)
 
 ### Projects
